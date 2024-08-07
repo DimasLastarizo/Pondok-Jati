@@ -27,7 +27,7 @@ header {
     align-content: center;
     text-align: center;
     min-height: 400px;
-    background-image: url(img/banner.jpg);
+    background-image: url(../img/banner.jpg);
     background-size: cover;
     background-position: center;
     padding: 50px;
